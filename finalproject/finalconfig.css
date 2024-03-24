@@ -1,0 +1,24 @@
+body {font-style: Poppinger; font-family: Poppinger, Times, 'Times New Roman', serif; margin-right: auto; margin-left: auto; background-color: whitesmoke; text-align: center;}
+#frist {background-color: #6E492A; color: whitesmoke; width: 75%; margin: auto; min-width: 850px; max-width: 1200px;}
+header {background-color: #987353; color: whitesmoke; font-size: 150%; padding: 10px 10px 10px 30px;}
+div {background-color: #f4f0e8;}
+h1 {text-align: center; background-color: #987353; color: whitesmoke; padding: 10px;}
+h2 {text-align: center; background-color: #43270E; color: whitesmoke; padding: 5px; font-size: 200%;}
+p {font-style: italic; font-family: Georgia, Times, 'Times New Roman', serif;}
+.border {border: 3px ridge #000000; text-align: center;}
+.center {text-align: center;}
+main {display: block; background-color: #43270E; color: whitesmoke; text-align: center; padding: 10px;}
+a {color: #000000;}
+nav ul {list-style-type: none; text-align: left; text-align: right}
+nav li {display: inline;}
+nav a {text-decoration: none; padding: 10px; font-weight: bold;}
+nav a:link {color: #ffffff;}
+nav a:visited {color: whitesmoke;}
+#black:hover {color: #000000}
+#blackcolor {color: #000000}
+#floatright {margin: 10px; float: right;}
+#floatbottom {margin: 10px; float: bottom;}
+nav {float: center; height: 20px; padding: 10px 10px 10px 30px; font-size: large;}
+nav1 a{float: center; height: 20px; padding: 10px 10px 10px 30px; font-size: 200%; text-decoration: none; padding: 10px; font-weight: bold; color: whitesmoke;}
+footer {font-size: 100%; clear: right; padding-bottom: 20px; text-align: center; line-height: 180%; background-color: #987353; color: #000000}
+#image:hover{background-image:url('confetti.gif');}
